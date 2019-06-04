@@ -10,6 +10,10 @@ Alliance's Guide
 from level 12 to lever 20
 1.04.2
 -- no changes in here for this revision
+
+Faelwen
+04 June 2019 - Guide replaced with Joanna's Alliance Guide (https://www.joanasworld.com/alliance-12-20.php)
+
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
