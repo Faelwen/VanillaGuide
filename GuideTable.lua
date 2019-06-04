@@ -26,6 +26,7 @@ Faelwen
 	04 June 2019 - Human starting zone - Replaced by Joanna's Alliance Guide
 	04 June 2019 - Dwarf/Gnome starting zone - Replaced by Joanna's Alliance Guide
 	04 June 2019 - Nightelf starting zone - Replaced by Joanna's Alliance Guide
+	04 June 2019 - Alliance 12-20 - Replaced by Joanna's Alliance Guide
 			
 ------------------------------------------------------
 Connection:
@@ -250,10 +251,9 @@ function objGuideTable:new(oSettings)
 				{ "v", "10-12 Teldrassil", id = nil },
 			},
 			["[A] 12-20"] = {
-				{ "v", "12-14 Darkshore", id = nil },
-				{ "v", "14-17 Darkshore", id = nil },
+				{ "v", "12-17 Darkshore", id = nil },
 				{ "v", "17-18 Loch Modan", id = nil },
-				{ "v", "18-20 Redredge Mountains", id = nil },
+				{ "v", "18-20 Redridge Mountains", id = nil },
 			},
 			["[A] 20-30"] = {
 				{ "v", "20-21 Darkshore", id = nil },
