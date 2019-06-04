@@ -25,6 +25,7 @@ Description:
 Faelwen	
 	04 June 2019 - Human starting zone - Replaced by Joanna's Alliance Guide
 	04 June 2019 - Dwarf/Gnome starting zone - Replaced by Joanna's Alliance Guide
+	04 June 2019 - Nightelf starting zone - Replaced by Joanna's Alliance Guide
 			
 ------------------------------------------------------
 Connection:
@@ -239,8 +240,14 @@ function objGuideTable:new(oSettings)
 				{ "v", "11-12 Loch Modan", id = nil },
 			},
 			["Night Elves"] = {
-				{ "v", "1-6 Teldrassil", id = nil },
-				{ "v", "6-12 Teldrassil", id = nil },
+				{ "v", "1-6 Shadowglen", id = nil },
+				{ "v", "6-10 Dolanaar", id = nil },
+				{ "v", "[Warrior] Level 10 Class Quest", id = nil },
+				{ "v", "[Rogue] Level 10 Class Quest", id = nil },
+				{ "v", "[Druid] Level 10 Class Quest", id = nil },
+				{ "v", "[Hunter] Level 10 Class Quest", id = nil },
+				{ "v", "[Priest] Level 10 Class Quest", id = nil },
+				{ "v", "10-12 Teldrassil", id = nil },
 			},
 			["[A] 12-20"] = {
 				{ "v", "12-14 Darkshore", id = nil },
