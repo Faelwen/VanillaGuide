@@ -24,6 +24,7 @@ Description:
 	
 Faelwen	
 	04 June 2019 - Human starting zone - Replaced by Joanna's Alliance Guide
+	04 June 2019 - Dwarf/Gnome starting zone - Replaced by Joanna's Alliance Guide
 			
 ------------------------------------------------------
 Connection:
@@ -225,8 +226,17 @@ function objGuideTable:new(oSettings)
 				{ "v", "12-13 Loch Modan", id = nil },
 			},
 			["Dwarves & Gnomes"] = {
-				{ "v", "1-6 Cold Ridge Valley", id = nil },
-				{ "v", "6-12 Dun Morogh", id = nil },
+				{ "v", "1-6 Coldridge Valley", id = nil },
+				{ "v", "6-8 Dun Morogh", id = nil },
+				{ "v", "8-10 Dun Morogh", id = nil },
+				{ "v", "[Warrior] Level 10 Class Quests", id = nil },
+				{ "v", "[Rogue] Level 10 Class Quests", id = nil },
+				{ "v", "[Priest] Level 10 Class Quests", id = nil },
+				{ "v", "[Mage] Level 10 Class Quests", id = nil },
+				{ "v", "[Warlock] Level 10 Class Quests", id = nil },
+				{ "v", "[Hunter] Level 10 Class Quests", id = nil },
+				{ "v", "10-11 Dun Morogh", id = nil },
+				{ "v", "11-12 Loch Modan", id = nil },
 			},
 			["Night Elves"] = {
 				{ "v", "1-6 Teldrassil", id = nil },
