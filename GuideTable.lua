@@ -21,6 +21,10 @@ Description:
 			function to retrive informations too
 	1.04.2
 		-- no changes in here for this revision
+	
+Faelwen	
+	04 June 2019 - Human starting zone - Replaced by Joanna's Alliance Guide
+			
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
@@ -213,8 +217,12 @@ function objGuideTable:new(oSettings)
 			},
 
 			["Humans"] = {
-				{ "v", "1-10 Elwynn Forest", id = nil },
-				{ "v", "10-12 Westfall and Lock Modan", id = nil },
+				{ "v", "1-6 Northshire", id = nil },
+				{ "v", "6-11 Goldshire", id = nil },
+				{ "v", "11-11 Westfall + Stormwind", id = nil },
+				{ "v", "11-12 Elwynn Forest", id = nil },
+				{ "v", "11-12 Ironforge + Dun Morogh", id = nil },
+				{ "v", "12-13 Loch Modan", id = nil },
 			},
 			["Dwarves & Gnomes"] = {
 				{ "v", "1-6 Cold Ridge Valley", id = nil },
