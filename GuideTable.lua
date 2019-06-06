@@ -141,9 +141,13 @@ function objGuideTable:new(oSettings)
 		},
 		lvl3 = {
 			["Orcs & Trolls"] = {
-				{ "v", "1-6 Durotar", id = nil },
-				{ "v", "6-9 Durotar", id = nil },
-				{ "v", "9-12 Durotar", id = nil },
+				{ "v", "1-6 Valley of Trials", id = nil },
+				{ "v", "6-8 Durotar", id = nil },
+				{ "v", "8-10 Durotar", id = nil },
+				{ "v", "[Hunter] level 10 Class Quests", id = nil },
+				{ "v", "Orgrimmar", id = nil },
+				{ "v", "[Mage] Orgrimmar", id = nil },
+				{ "v", "10-12 Durotar", id = nil },
 			},
 			["Taurens"] = {
 				{ "v", "1-6 Mulgore", id = nil },
